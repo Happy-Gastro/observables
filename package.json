@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Happy-Gastro/file-hash-vault.git"
+    "url": "https://github.com/Happy-Gastro/observables.git"
   },
   "license": "ISC",
   "main": "src/index.js",

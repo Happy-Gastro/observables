@@ -1,5 +1,6 @@
 /**
  * Module for managing observable events.
+ * Use this module to register and call event listeners global in the App
  * @module Observables
  */
 
