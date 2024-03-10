@@ -1,0 +1,20 @@
+{
+  "name": "@happy-gastro/global-observables",
+  "version": "1.4.1",
+  "description": "Use this module to register and call event listeners global in the App",
+  "author": {
+    "email": "ferenc.farkas@happygastro.hu",
+    "name": "Ferenc Farkas",
+    "url": "https://happygastro.hu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Happy-Gastro/file-hash-vault.git"
+  },
+  "license": "ISC",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["observables", "happy-gastro", "global observables", "observ server", "observ"]
+}
