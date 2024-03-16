@@ -1,6 +1,6 @@
 {
   "name": "@happy-gastro/global-observables",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "description": "Use this module to register and call event listeners global in the App",
   "author": {
     "email": "ferenc.farkas@happygastro.hu",
