@@ -52,7 +52,7 @@ This project is developed and maintained by Farkas Ferenc.
 
 - **Name**: Farkas Ferenc
 - **Email**: [ferenc.farkas@happygastro.hu](mailto:ferenc.farkas@happygastro.hu)
-- **Website**: [www.happygastro.org](http://www.happygastro.org)
+- **Website**: [www.happygastro.hu](http://www.happygastro.org)
 
 ## Company
 
